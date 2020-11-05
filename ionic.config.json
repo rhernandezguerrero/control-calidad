@@ -1,0 +1,7 @@
+{
+  "name": "controlCalidad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
